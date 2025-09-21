@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Gabriel! 👋
+## Welcome to my GitHub profile!
 
-<!--
-**whois-machado/whois-machado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Computer Science Student** at the Universidade Federal Rural do Rio de Janeiro | UFRRJ.
+- Passionate about software development | Exploring AI, Blockchain & Cybersecurity.
+- Member of a Competitive Programming Team | **Bug é feature-UFRRJ**.
+- Open to collaborations and always looking for new challenges. 
 
-Here are some ideas to get you started:
+# Languages and Tools
+---
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
