@@ -17,7 +17,7 @@
 
 <div>
 <a href="https://github.com/whois-machado">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whois-machado&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whois-machado&layout=compact&langs_count=7&theme=dark"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=whois-machado&show_icons=true&theme=dark#gh-dark-mode-only"]
 </div>          
           
