@@ -6,7 +6,7 @@
 - Member of a Competitive Programming Team | **Bug é feature-UFRRJ**.
 - Open to collaborations and always looking for new challenges. 
 
-# Languages and Tools
+## Languages and Tools
 ---
 
 
@@ -21,14 +21,13 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=whois-machado&show_icons=true&theme=dark#gh-dark-mode-only"]
 </div>          
           
-          
-          
-          
-          
-          
-          
-          
+---          
 
+## How to reach me
+---
 
-- 📫 How to reach me: ...
--->
+<div>
+<a href="https://instagram.com/machado_cn" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:bielmachado09@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabrielmachadodecarvalho" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
