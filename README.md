@@ -6,7 +6,7 @@ Tenho uma base sólida em engenharia de software, aplicando consistentemente boa
 
 Também sou entusiasta em Data Science, com formação complementar pelo programa Oracle/Alura, o que fortalece minha visão analítica e orientada a dados — competência essencial para sistemas financeiros.
 
-Meu objetivo é atuar como Backend Intern, contribuindo para o desenvolvimento de soluções robustas, seguras e escaláveis, aprendendo com ambientes de alta criticidade e impacto real no negócio**.
+Meu objetivo é atuar como Backend Intern, contribuindo para o desenvolvimento de soluções robustas, seguras e escaláveis, aprendendo com ambientes de alta criticidade e impacto real no negócio.
 
 ---
 
