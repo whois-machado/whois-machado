@@ -17,10 +17,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 ## GitHub Stats
 
 <div>
-<a href="https://github.com/whois-machado">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whois-machado&layout=compact&langs_count=7&theme=dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=whois-machado&show_icons=true&theme=dark#gh-dark-mode-only"]
-</div>          
+  <a href="https://github.com/whois-machado">
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=whois-machado&layout=compact&langs_count=7&theme=dark">
+    <img height="180em"
+         src="https://github-readme-stats.vercel.app/api?username=whois-machado&show_icons=true&theme=dark">
+  </a>
+</div>       
             
 
 ## How to reach me
