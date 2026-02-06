@@ -1,63 +1,83 @@
 ## 👋 Hi, I’m Gabriel Machado
 
-**Software Engineer** em formação e estudante de **Ciência da Computação** pela **UFRRJ**. Tenho interesse especial em **tecnologias emergentes**, com foco em **Inteligência Artificial, Blockchain/Web3 e Cybersecurity**.
+Software Engineer e estudante de Ciência da Computação pela UFRRJ, com foco em desenvolvimento backend e interesse em atuar no setor financeiro/bancário.
 
-Atualmente exploro o ecossistema **Java/Spring**, sem abrir mão de uma base sólida em **engenharia de software**, boas práticas, código limpo e arquitetura.
+Tenho uma base sólida em engenharia de software, aplicando consistentemente boas práticas, Clean Code, arquitetura bem definida, POO e refatoração no desenvolvimento de sistemas. Atualmente utilizo Java/Spring como stack principal em projetos backend, especialmente voltados a regras de negócio, segurança e escalabilidade.
 
-Meu objetivo é construir soluções escaláveis, seguras e bem pensadas — transformando ideias em produtos reais.
+Também sou entusiasta em Data Science, com formação complementar pelo programa Oracle/Alura, o que fortalece minha visão analítica e orientada a dados — competência essencial para sistemas financeiros.
+
+Meu objetivo é atuar como Backend Intern, contribuindo para o desenvolvimento de soluções robustas, seguras e escaláveis, aprendendo com ambientes de alta criticidade e impacto real no negócio**.
 
 ---
 
 ## 🚀 Tech Stack
+Linguagens
 
-### Linguagens
+Java
 
-* Java
-* Python
-* C / C++
-* JavaScript / TypeScript
+Python
 
-### Frameworks & Tecnologias
+C / C++
 
-* Spring (Boot, Data, Security)
-* Node.js
-* React / Next.js
-* Docker
-* MySQL
+JavaScript / TypeScript
 
-### Fundamentos
+Frameworks & Tecnologias
 
-* Programação Orientada a Objetos (POO)
-* Clean Code & Refatoração
-* Lógica de Programação
-* Arquitetura de Software
+Spring (Boot, Data, Security)
+
+Node.js
+
+React / Next.js
+
+Docker
+
+MySQL
+
+Fundamentos
+
+Programação Orientada a Objetos (POO)
+
+Clean Code & Refatoração
+
+Lógica de Programação
+
+Arquitetura de Software
 
 ---
 
 ## 🌱 Currently Learning
 
-* Spring avançado (Security, Data)
-* Desenvolvimento Full Stack com TypeScript
-* Python para Data Science (Oracle/Alura)
-* Teoria dos Grafos e Redes Complexas
-* Cybersecurity (fundamentos)
-* Conceitos de Blockchain & Web3
+Spring avançado (Security, Data)
+
+Desenvolvimento Full Stack com TypeScript
+
+Python para Data Science (Oracle/Alura)
+
+Teoria dos Grafos e Redes Complexas
+
+Cybersecurity (fundamentos)
+
+Conceitos de Blockchain & Web3
 
 ---
 
 ## 🛠️ Currently Building
 
-* Simulador Bancário (Java + Spring)
-* Iniciação Científica aplicada a Grafos e mapeamento de Redes Sociais
-* Aplicações Full Stack escaláveis com Next.js, TypeScript e Node.js
+Simulador Bancário (Java + Spring)
+
+Iniciação Científica aplicada a Grafos e mapeamento de Redes Sociais
+
+Aplicações Full Stack escaláveis com Next.js, TypeScript e Node.js
 
 ---
 
 ## 🤝 Open to
 
-* Colaboração em projetos Open Source (especialmente Java / Full Stack)
-* Discussões sobre arquitetura de software, boas práticas e refatoração
-* Networking com desenvolvedores, pesquisadores e entusiastas de tecnologia
+Colaboração em projetos Open Source (especialmente Java / Full Stack)
+
+Discussões sobre arquitetura de software, boas práticas e refatoração
+
+Networking com desenvolvedores, pesquisadores e entusiastas de tecnologia
 
 ---
 
