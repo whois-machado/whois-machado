@@ -50,17 +50,15 @@ Meu objetivo é atuar como Software Engineer Intern ou AI Engineer Intern, desen
 
 ## 🌱 Atualmente Estudando
 
-Spring avançado (Security, Data)
-
-Desenvolvimento Full Stack com TypeScript
-
-Python para Data Science (Oracle/Alura)
-
-Teoria dos Grafos e Redes Complexas
-
-Cybersecurity (fundamentos)
-
-Conceitos de Blockchain & Web3
+- Large Language Models (LLMs)
+- Generative AI
+- Prompt Engineering
+- AI Agents & Tool Calling
+- Retrieval-Augmented Generation (RAG)
+- Workflow Automation
+- MLOps Fundamentals
+- Cloud & AI Engineering
+- Cybersecurity Fundamentals
 
 ---
 
