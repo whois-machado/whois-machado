@@ -1,51 +1,54 @@
-## 👋 Hi, I’m Gabriel Machado
+# 👋 Hi, I’m Gabriel Machado
 
-Software Engineer e estudante de Ciência da Computação pela UFRRJ, com foco em desenvolvimento backend e interesse em atuar no setor financeiro/bancário.
+Software Engineer e estudante de Ciência da Computação pela UFRRJ, com foco em engenharia de software, desenvolvimento de produtos e especialização em AI Engineering.
 
-Tenho uma base sólida em engenharia de software, aplicando consistentemente boas práticas, Clean Code, arquitetura bem definida, POO e refatoração no desenvolvimento de sistemas. Atualmente utilizo Java/Spring como stack principal em projetos backend, especialmente voltados a regras de negócio, segurança e escalabilidade.
+Tenho uma base sólida em arquitetura de software, programação orientada a objetos, estruturas de dados, Clean Code e desenvolvimento full stack. Atualmente concentro meus estudos e projetos na construção de aplicações escaláveis, automações inteligentes e produtos digitais preparados para integrar Inteligência Artificial.
 
-Também sou entusiasta em Data Science, com formação complementar pelo programa Oracle/Alura, o que fortalece minha visão analítica e orientada a dados — competência essencial para sistemas financeiros.
-
-Meu objetivo é atuar como Backend Intern, contribuindo para o desenvolvimento de soluções robustas, seguras e escaláveis, aprendendo com ambientes de alta criticidade e impacto real no negócio.
+Meu objetivo é atuar como Software Engineer Intern ou AI Engineer Intern, desenvolvendo sistemas robustos, produtos com alto valor de negócio e soluções que combinem engenharia de software, automação e IA aplicada.
 
 ---
 
-## 🚀 Tech Stack
-Linguagens
+# 🚀 Tech Stack
+## Linguagens
 
-Java
+- Java
+- Python
+- C / C++
+- JavaScript / TypeScript
 
-Python
+## Frameworks & Tecnologias
 
-C / C++
+- Spring Boot (Data, Security)
+- React
+- Next.js
+- React Native
+- Expo
+- Node.js
+- Docker
+- PostgreSQL
+- MySQL
 
-JavaScript / TypeScript
+## AI Engineering & Automation
+- LangChain
+- LlamaIndex
+- n8n
+- Ollama
+- Prompt Engineering
+- RAG (Retrieval-Augmented Generation)
+- AI Agents
 
-Frameworks & Tecnologias
-
-Spring (Boot, Data, Security)
-
-Node.js
-
-React / Next.js
-
-Docker
-
-MySQL
-
-Fundamentos
-
-Programação Orientada a Objetos (POO)
-
-Clean Code & Refatoração
-
-Lógica de Programação
-
-Arquitetura de Software
+## Fundamentos
+- Domain-Driven Design (DDD)
+- Clean Architecture
+- SOLID
+- Clean Code & Refatoração
+- Estruturas de Dados e Algoritmos
+- Arquitetura de Software
+- RESTful APIs
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Atualmente Estudando
 
 Spring avançado (Security, Data)
 
@@ -61,32 +64,32 @@ Conceitos de Blockchain & Web3
 
 ---
 
-## 🛠️ Currently Building
+## 🛠️ Atualmente Construindo
 
-Simulador Bancário (Java + Spring)
-
-Iniciação Científica aplicada a Grafos e mapeamento de Redes Sociais
-
-Aplicações Full Stack escaláveis com Next.js, TypeScript e Node.js
+- **PACE** — aplicativo de produtividade em React Native com assistente de IA contextual para planejamento e execução de metas.
+- **Booking App** — plataforma SaaS B2B multi-tenant de agendamento e gestão operacional para empresas, com aplicações web e mobile e arquitetura preparada para automação e Inteligência Artificial.
+- **Finance Tracker** — aplicativo mobile de finanças pessoais para Android e iOS, com arquitetura escalável preparada para um futuro assistente financeiro inteligente.
 
 ---
 
-## 🤝 Open to
+## 🤝 Aberto a 
 
-Colaboração em projetos Open Source (especialmente Java / Full Stack)
-
-Discussões sobre arquitetura de software, boas práticas e refatoração
-
-Networking com desenvolvedores, pesquisadores e entusiastas de tecnologia
+- Oportunidades de estágio em Software Engineering, Full Stack Development e AI Engineering
+- Colaboração em projetos open source
+- Networking com desenvolvedores, pesquisadores e empreendedores de tecnologia
+- Discussões sobre arquitetura de software, startups, automação e IA aplicada
 
 ---
 
 
-## 📫 How to reach me
+## 📫 Contato
 
 <p align="left">
   <a href="https://instagram.com/machado_cn" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://machado-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/GM-Portfolio-151821?style=for-the-badge&labelColor=151821&color=151821&logoColor=white" />
   </a>
   <a href="mailto:gabrielmachado@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
